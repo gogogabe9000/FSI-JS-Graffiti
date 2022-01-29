@@ -10,5 +10,5 @@ for(let i=0; i < dogImages.length; i++){
 
 let dogName = document.querySelectorAll('.dog-name')
 for(let i=0; i < dogName.length; i++){
-    dogname[i].style.textAlign = 'left'
+    dogName[i].style.textAlign = 'left'
 }
